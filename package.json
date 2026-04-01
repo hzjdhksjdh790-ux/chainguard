@@ -1,0 +1,44 @@
+{
+  "name": "chainguard",
+  "version": "1.0.0",
+  "description": "OKX OnchainOS AI Agent Skill for On-Chain Asset Protection - Real-time price monitoring, yield scanning, and risk management",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node --test src/**/*.test.js",
+    "lint": "eslint src/"
+  },
+  "keywords": [
+    "okx",
+    "onchainos",
+    "blockchain",
+    "defi",
+    "ai-agent",
+    "smart-contract",
+    "wallet",
+    "security",
+    "yield-farming",
+    "price-alert"
+  ],
+  "author": "ChainGuard Team",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  },
+  "optionalDependencies": {
+    "@anthropic-ai/claude-code": "^1.0.0",
+    "@okx-web3/onchainos-skills": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/chainguard"
+  }
+}

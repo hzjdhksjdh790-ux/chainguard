@@ -1,0 +1,71 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build outputs
+dist/
+build/
+*.js.map
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+.env*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+coverage/
+.nyc_output/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Credentials (NEVER commit)
+*.pem
+*.key
+credentials.json
+secrets.json
+
+# Compiled files
+*.class
+*.o
+*.so
+*.dll
+*.exe
+
+# TypeScript (if using)
+*.tsbuildinfo
+
+# Misc
+*.tgz
+*.tar.gz
+*.zip
+
+# Wallet files (never commit private keys)
+*.wallet
+wallet.dat
+keystore/
+
+# API responses (can contain sensitive data)
+api-responses/
+mock-data/
