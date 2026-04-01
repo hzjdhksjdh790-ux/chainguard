@@ -99,7 +99,7 @@ graph TB
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/chainguard.git
+git clone https://github.com/hzjdhksjdh790-ux/chainguard.git
 cd chainguard
 
 # Install dependencies
@@ -336,9 +336,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- Create an issue on GitHub
-- Join our [Discord](https://discord.gg/chainguard)
-- Follow [@ChainGuard](https://twitter.com/ChainGuard) on X
+- Create an issue on [GitHub](https://github.com/hzjdhksjdh790-ux/chainguard/issues)
+- Follow [@hzjdhksjdh790](https://twitter.com/hzjdhksjdh790) on X for updates
 
 ---
 
