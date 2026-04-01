@@ -11,8 +11,9 @@
 
 ## 🎯 Overview
 
-ChainGuard is an AI Agent Skill built for the OKX OnchainOS platform that provides comprehensive on-chain asset protection through three core capabilities.
+ChainGuard is an AI Agent Skill built for the **OKX Build X Hackathon 2026** (April 1-15, 2026) that provides comprehensive on-chain asset protection through three core capabilities.
 
+> 🏆 **Total Prize Pool: 46,000 USDT**
 > 📢 **This project is submitted to both X Layer Arena and Skills Arena tracks.**
 
 - **Price Monitor** - Real-time price tracking with customizable alerts
@@ -355,12 +356,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |----------|------|
 | **GitHub** | [hzjdhksjdh790-ux/chainguard](https://github.com/hzjdhksjdh790-ux/chainguard) |
 | **Demo Video** | TBD |
-
----
-
-<p align="center">
-  Made with ❤️ for the OKX OnchainOS Ecosystem
-</p>
 
 ---
 
