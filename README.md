@@ -1,7 +1,8 @@
 # ChainGuard
 
+🏆 **Built for OKX Build X Hackathon 2026**
+
 ![ChainGuard Banner](https://img.shields.io/badge/ChainGuard-OKX%20OnchainOS-blue)
-[![npm version](https://img.shields.io/npm/v/chainguard.svg)](https://www.npmjs.com/package/chainguard)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Chain: Multi](https://img.shields.io/badge/Chain-Ethereum%7CSolana%7CBase%7CBNB%7COKT-8B5CF6)
 
@@ -10,7 +11,9 @@
 
 ## 🎯 Overview
 
-ChainGuard is an AI Agent Skill built for the OKX OnchainOS platform that provides comprehensive on-chain asset protection through three core capabilities:
+ChainGuard is an AI Agent Skill built for the OKX OnchainOS platform that provides comprehensive on-chain asset protection through three core capabilities.
+
+> 📢 **This project is submitted to both X Layer Arena and Skills Arena tracks.**
 
 - **Price Monitor** - Real-time price tracking with customizable alerts
 - **Yield Scanner** - Multi-chain DeFi opportunity discovery
@@ -337,7 +340,27 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - Create an issue on [GitHub](https://github.com/hzjdhksjdh790-ux/chainguard/issues)
-- Follow [@hzjdhksjdh790](https://twitter.com/hzjdhksjdh790) on X for updates
+- Follow [@Allison19w](https://twitter.com/Allison19w) on X for updates
+
+---
+
+## 🏆 Hackathon Submission
+
+| Track | Description |
+|-------|-------------|
+| **X Layer Arena** | ChainGuard on X Layer blockchain |
+| **Skills Arena** | OKX OnchainOS AI Agent Skill |
+
+| Resource | Link |
+|----------|------|
+| **GitHub** | [hzjdhksjdh790-ux/chainguard](https://github.com/hzjdhksjdh790-ux/chainguard) |
+| **Demo Video** | TBD |
+
+---
+
+<p align="center">
+  Made with ❤️ for the OKX OnchainOS Ecosystem
+</p>
 
 ---
 
